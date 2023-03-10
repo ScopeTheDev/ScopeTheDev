@@ -5,7 +5,27 @@
 
 - 📫 How to reach me? **luccasl@hotmail.com**
 
-- 📄 Know about my experiences and certificates on [https://www.linkedin.com/in/luccas-lima-131a82164/](https://www.linkedin.com/in/luccas-lima-131a82164/)
+- 📄 Know about my experiences and certificates on
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hyperlink Generator</title>
+	<style>
+		a:link,a:visited {
+			color: #2f2d2d;
+			text-decoration: underline;
+		}
+		a:hover {
+			color: #3415a2;
+			text-decoration: none;
+		}
+	</style>
+</head>
+<body>
+	<a href="https://www.linkedin.com/in/luccas-lima-131a82164/">Click here!</a>
+</body>
+</html>
 
 - ⚡ Fun fact **I'm an anime otaku and I like to spend most of my time at home with my girlfriend.**
 
