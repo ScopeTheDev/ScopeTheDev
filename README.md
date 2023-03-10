@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences and certificates on <a href="https://www.linkedin.com/in/luccas-lima-131a82164/">Click here!</a>
 
-- ⚡ Fun fact **I'm an anime otaku and I like to spend most of my time at home with my girlfriend.**
+- 📄 Languages i speak: Portuguese(Native) English(Native) Spanish(Fluent)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
