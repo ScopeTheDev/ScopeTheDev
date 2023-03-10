@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luccas Lima</h1>
+<h1 align="center">Hi, I'm Luccas Lima</h1>
 <h3 align="center">I'm 23 and also a social communication and Marketing student from Aracaju, Sergipe- Brazil and I'm in my last year of Bachelor's degree. I started studying programming 1 year ago as a self-taught and I've been falling in love with studying more and more every single day. Today I have already gone through learning some languages ​​and I feel comfortable with them (JavaScript, HTML, CSS, Python and more recently ASP.NET CORE). It all started with Front-end and now I started going further to the Backend side. My goal is to become a solid self-taught Full Stack developer in the long term.</h3>
 
 - 🌱 I’m currently learning **ASP.NET Core and MVC patterns.**
@@ -14,7 +14,7 @@
 <a href="https://twitter.com/___scope___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___scope___" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luccas-lima-131a82164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luccas-lima-131a82164" height="30" width="40" /></a>
 <a href="https://fb.com/luccas.lima.507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luccas.lima.507" height="30" width="40" /></a>
-<a href="https://instagram.com/@luccasliimaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@luccasliimaa_" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/@luccasliimaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/@luccasliimaa_" height="30" width="40" /></a>
 <a href="https://www.behance.net/luccaslb9d8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="luccaslb9d8" height="30" width="40" /></a>
 <a href="https://discord.gg/233770809699729408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="233770809699729408" height="30" width="40" /></a>
 </p>
